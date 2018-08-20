@@ -19,3 +19,5 @@ To use the script on its own (i.e., without the .Rproj file), you will need to
 modify the here() calls. here() references the location of the project file. 
 To avoid using here() and the .Rproj file, simply replace the here() calls with
 direct filepaths to the relevant files/folders.
+
+![Rank inheritance](https://github.com/straussed/rank_inheritance/blob/master/hz_inheritance.gif)
